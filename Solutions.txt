@@ -1,0 +1,44 @@
+Problem 1: Calculate the Sum of Natural Numbers Write an algorithm that calculates the sum of all natural numbers from 1 to a given number n.
+
+Step 1: Start
+Step 2: Input the number from the user
+Step 3: begin with sum as 0
+Step 4: Adding the next natural number with previous sum 
+Step 5: Repeat step 4 until it reaches the user given input
+Step 6: Print the sum 
+Step 7: End
+
+Problem 2: Check for Prime Number Write an algorithm that checks if a given number n is a prime number or not.
+
+Step 1: Start
+Step 2: Input the number from user
+Step 3: check if any number except 1 and itself which is divisible with the user given number 
+Step 4: If not then print the number is prime number 
+Step 5: If then print the number is not a prime number
+Step 6: End
+
+Problem 3: Find the Maximum of Three Numbers Write an algorithm that takes three numbers as input and finds the largest of them.
+
+Step 1: Start
+Step 2: Input three numbers from user
+Step 3: Check whether the first number is greater than second number
+Step 4: If step 3 is true then check the first number is greater than third, If its true then print first number as greatest or third number as greatest.
+Step 5: If step 3 is false then check whether the second number is greater than third,if then print second number as greatest or print third as greatest.
+Step 6: End
+
+Problem 4: Factorial Calculation Write an algorithm that calculates the factorial of a number n.
+
+Step 1: Start
+Step 2: Input the number from user
+Step 3: Start with 1
+Step 4: Multiply consectutive numbers with previous result till the user given number
+Step 5: Print the resultant factorial value
+Step 6: End
+
+Problem 5: Check if a Number is Even or Odd Write an algorithm that checks if a given number n is even or odd.
+
+Step 1: Start
+Step 2: Input the number from user
+Step 3: Check whether the given user number is divisible by 2,number is even
+Step 4: If step not print number is odd
+Step 5: End
