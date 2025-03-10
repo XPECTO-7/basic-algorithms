@@ -1,0 +1,57 @@
+1.Calculate the sum of natural numbers
+
+START 
+	INPUT n
+	sum=0,i=0
+	WHILE i < n
+		sum=sum+n
+		i=i+1
+	PRINT sum
+END
+
+2.Check prime number
+
+START
+	INPUT n
+	flag=0
+	FOR i:1 TO n/2
+		IF n%i==0
+		flag==1
+	IF flag==1
+		PRINT not a prime number
+	ELSE 
+		PRINT prime number
+END
+
+3.Greatest of three numbers
+
+START
+	INPUT a,b,c
+	IF a > b and a > c
+		print a
+	ELSEIF b > a and b > c
+		print b
+	ELSE
+		print c
+END
+
+4. Factorial of a number
+
+START
+	INPUT n
+	fact=1
+	FOR i:1 to n
+		fact=fact*1
+	PRINT fact
+END
+
+5. Check number is odd or even
+
+START
+	INPUT n
+	IF n%2==0
+		print even
+	ELSE
+		print odd
+END
+				

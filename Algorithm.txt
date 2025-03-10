@@ -31,7 +31,7 @@ Problem 4: Factorial Calculation Write an algorithm that calculates the factoria
 Step 1: Start
 Step 2: Input the number from user
 Step 3: Start with 1
-Step 4: Multiply consectutive numbers with previous result till the user given number
+Step 4: Multiply consecutive numbers with previous result till the user given number
 Step 5: Print the resultant factorial value
 Step 6: End
 
